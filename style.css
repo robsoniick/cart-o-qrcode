@@ -1,0 +1,79 @@
+@font-face {
+    font-family: 'Outfit';
+    src: url('Outfit-Black.ttf') format('opentype'), url('Outfit-Black.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+
+
+#imagem {
+    border-radius:10px;
+    padding: -20px;
+    background-color:#4d79ff;
+    display: flex;
+    padding-left: 10px;
+    height: 280px;
+    object-position: cover;
+   
+    
+}
+
+.p {
+    font-size: 15px;
+    font-family: 'Outfit', 'Times New Roman', Times, serif;
+    text-align: center;
+    padding: 5px;
+    
+   
+    
+            
+}
+
+#p{
+    font-size: 15px;
+    color: hsl(212, 45%, 89%);
+    font-family: 'Outfit', 'Times New Roman', Times, serif;
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    padding: 20px;
+   
+}
+
+
+
+
+.caixabranca{
+
+    background-color:hsl(0, 0%, 100%);
+    width: 300px;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 0 auto 0 auto;
+    
+    
+   
+    
+   
+    
+}
+
+
+.caixaazul{
+    width: 400px;
+    height: 500px;
+    background-color:hsl(212, 45%, 89%);
+    padding-top: 50px;
+    margin: 0 auto 0 auto;
+    
+    
+    
+    
+}
+
+
+   
+   
